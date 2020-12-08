@@ -9711,6 +9711,7 @@ button.bg-dark:focus {
 @media (min-width: 992px) {
   .text-lg-left {
     text-align: left !important;
+    color: white;
   }
 
   .text-lg-right {
@@ -10480,6 +10481,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .footer {
+  background-color: #212529;
   width:100%;
   margin: auto auto;
   padding: 10px 5px;
